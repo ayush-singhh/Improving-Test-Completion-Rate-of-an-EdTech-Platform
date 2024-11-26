@@ -1,14 +1,13 @@
 # KYS Test Completion Rates: Data-Driven User Behavior Analysis
 
 ## Project Overview
-This project focuses on analyzing user behavior data to identify and address key drop-off points in the KYS (Know Your Self) test funnel. By leveraging SQL for data exploration and proposing actionable solutions, this project aims to enhance test completion rates and improve user experience.
+This project focuses on analyzing user behavior data to identify and address key drop-off points in the KYS (Know Your Self) test funnel of an EdTeach Platform. By leveraging SQL for data exploration and proposing actionable solutions, this project aims to enhance test completion rates and improve user experience.
 
 ---
 
 ## Objective
 - To analyze user behavior patterns in the KYS test funnel using SQL and identify critical drop-off stages.
-- To propose and evaluate solutions that reduce cognitive load and improve user engagement.
-- To re-engage users who drop off through targeted messaging and reminders.
+- To propose and evaluate solutions basked by data.
 
 ---
 
